@@ -30,7 +30,8 @@
     "spi-device": "2.0.9"
   },
   "os": [
-    "linux"
+    "linux",
+    "darwin"
   ],
   "devDependencies": {
     "jshint": "^2.9.4"
